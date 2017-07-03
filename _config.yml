@@ -2,6 +2,7 @@ title: Atelier EtCo.
 subtitle: Agence de communication print et digitale
 author: Atelier EtCo.
 email: paloma@etco.ch
+phone: 078 606 18 71
 description: >
     L'atelier EtCo c'est :
       * Un atelier de graphiste
@@ -24,6 +25,7 @@ url: "http://etco.ch" # the base hostname & protocol for your site, e.g. http://
 twitter_username: PalomaMagliocco
 facebook_username: atelieretco
 instagram_username: atelier_etco
+linkedin_username: palomamagliocco
 
 exclude:
 
