@@ -1,0 +1,11 @@
+{
+  "name": "etco",
+  "version": "1.0.0",
+  "main": "README.md",
+  "author": "Atelier EtCo.",
+  "license": "private",
+  "private": true,
+  "devDependencies": {
+    "kanbasu": "^1.4.0"
+  }
+}

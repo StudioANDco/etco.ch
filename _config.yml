@@ -1,0 +1,54 @@
+title: Atelier EtCo.
+subtitle: Agence de communication print et digitale
+author: Atelier EtCo.
+email: paloma@etco.ch
+description: >
+    L'atelier EtCo c'est :
+      * Un atelier de graphiste
+      * Une agence de com
+      * Un bureau d'ingénieur
+      * Un réseau de partenaires
+      * Une boîte à idée
+street: "Rue de l'industrie 40"
+city: "Sion"
+zip: "1950"
+state: "Valais"
+country: "Suisse"
+latitude: "46.227210"
+longitude: "7.365095"
+
+ga: "UA-77883422-10"
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://etco.ch" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: PalomaMagliocco
+facebook_username: atelieretco
+instagram_username: atelier_etco
+
+exclude:
+
+# Build settings
+markdown: kramdown
+gems:
+    - jekyll-feed
+    - jekyll-coffeescript
+    - jekyll-paginate
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - node_modules
+    - package.json
+
+# Github forced settings
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+    noscript: false
+
+kramdown:
+    input: GFM
+    hard_wrap: false
+
+# Collections
